@@ -68,7 +68,9 @@ theme: zxcvb
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: git@github.com:haishanh/zxcvb.git
+  branch: gh-pages
 
 menu:
   Home: /
@@ -76,6 +78,7 @@ menu:
   RSS: /atom.xml
   GitHub: https://github.com/haishanh/hexo-theme-zxcvb
 toc: true
+source_repo: https://github.com/haishanh/zxcvb/blob/master
 logo:
   image: /assets/zxcvb.png
   text: zxcvb
