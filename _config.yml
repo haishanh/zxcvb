@@ -3,18 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: zxcvb
 subtitle:
-description:
-author: John Doe
+description: Demo site for hexo theme <a href="https://github.com/haishanh/hexo-theme-zxcvb">zxcvb</a>
+author: HAN Haishan
 language:
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://zxcvb.hanhaishan.com
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :title/
 permalink_defaults:
 
 # Directory
@@ -63,9 +63,21 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: zxcvb
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+
+menu:
+  Home: /
+  Archives: /archives
+  RSS: /atom.xml
+  GitHub: https://github.com/haishanh/hexo-theme-zxcvb
+toc: true
+logo:
+  image: /assets/zxcvb.png
+  text: zxcvb
+footer: <span>&copy;</span> 2016 <a href="http://hanhaishan.com">Haishan</a><br>
+        Documentation licensed under <a href="http://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>

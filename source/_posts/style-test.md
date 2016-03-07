@@ -62,17 +62,13 @@ Test `inline` code.
 
 ### Image
 
-Text above
+some text above a image.
 
-![](http://7fva40.com1.z0.glb.clouddn.com/carlog-404-sprite.jpg)
-
-Google logo
-
-![](https://www.google.com.sg/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
+![sprite](http://7fva40.com1.z0.glb.clouddn.com/carlog-404-sprite.jpg)
 
 ### Some keyboard
 
-<kbd>CTRL</kbd> + <kbd>SPACE</kbd>
+To open the palette in Sublime Text, on Windows and Linux press <kbd>CTRL</kbd> + <kbd>SHIFT</kbd> + <kbd>p</kbd>, on OS X press <kbd>CMD</kbd> + <kbd>SHFIT</kbd> + <kbd>p</kbd>.
 
 ### 中文
 
@@ -81,11 +77,6 @@ Google logo
 ### This is simply a long heading to test table of content on the left
 
 nothing here
-
-### Admonition
-
-!!! note "This is a note"
-    Hello I'm a note.
 
 
 [twitter]: https://twitter.com
