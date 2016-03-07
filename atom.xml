@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>zxcvb</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://zxcvb.hanhaishan.com/"/>
+  <updated>2016-03-07T14:52:25.000Z</updated>
+  <id>http://zxcvb.hanhaishan.com/</id>
+  
+  <author>
+    <name>HAN Haishan</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>This page is used for style</title>
+    <link href="http://zxcvb.hanhaishan.com/style-test/"/>
+    <id>http://zxcvb.hanhaishan.com/style-test/</id>
+    <published>2016-03-07T14:52:25.000Z</published>
+    <updated>2016-03-07T14:52:25.000Z</updated>
+    
+    <content type="html">&lt;h2 id=&quot;List&quot;&gt;&lt;a href=&quot;#List&quot; class=&quot;headerlink&quot; title=&quot;List&quot;&gt;&lt;/a&gt;List&lt;/h2&gt;&lt;h3 id=&quot;Unordered_List&quot;&gt;&lt;a href=&quot;#Unordered_List&quot; class=&quot;headerlink&quot; title=&quot;Unordered List&quot;&gt;&lt;/a&gt;Unordered List&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://google.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Google&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://apple.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Apple&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;Ordered_List&quot;&gt;&lt;a href=&quot;#Ordered_List&quot; class=&quot;headerlink&quot; title=&quot;Ordered List&quot;&gt;&lt;/a&gt;Ordered List&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;one&lt;/li&gt;
+&lt;li&gt;two&lt;/li&gt;
+&lt;li&gt;three&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&quot;Links&quot;&gt;&lt;a href=&quot;#Links&quot; class=&quot;headerlink&quot; title=&quot;Links&quot;&gt;&lt;/a&gt;Links&lt;/h3&gt;&lt;p&gt;This page is generated using &lt;a href=&quot;http://github.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;mdnotes&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&quot;Quote&quot;&gt;&lt;a href=&quot;#Quote&quot; class=&quot;headerlink&quot; title=&quot;Quote&quot;&gt;&lt;/a&gt;Quote&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;Here’s to the crazy ones. The rebels. The troublemakers. The ones who see things differently. While some may see them as the crazy ones, we see genius. Because the people who are crazy enough to think they can change the world, are the ones who do.  &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;Code&quot;&gt;&lt;a href=&quot;#Code&quot; class=&quot;headerlink&quot; title=&quot;Code&quot;&gt;&lt;/a&gt;Code&lt;/h3&gt;&lt;p&gt;Some python code&lt;/p&gt;
+&lt;figure class=&quot;highlight python&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;function&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;title&quot;&gt;hello&lt;/span&gt;&lt;span class=&quot;params&quot;&gt;()&lt;/span&gt;:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    print(&lt;span class=&quot;string&quot;&gt;&#39;Hello&#39;&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;if&lt;/span&gt; __name__ == &lt;span class=&quot;string&quot;&gt;&#39;__main__&#39;&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    hello()&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;Some javascript code&lt;/p&gt;
+&lt;figure class=&quot;highlight js&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;var&lt;/span&gt; http = &lt;span class=&quot;built_in&quot;&gt;require&lt;/span&gt;(&lt;span class=&quot;string&quot;&gt;&#39;http&#39;&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;var&lt;/span&gt; server = http.createServer(&lt;span class=&quot;function&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;function&lt;/span&gt; (&lt;span class=&quot;params&quot;&gt;request, response&lt;/span&gt;) &lt;/span&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  response.writeHead(&lt;span class=&quot;number&quot;&gt;200&lt;/span&gt;, &amp;#123;&lt;span class=&quot;string&quot;&gt;&quot;Content-Type&quot;&lt;/span&gt;: &lt;span class=&quot;string&quot;&gt;&quot;text/plain&quot;&lt;/span&gt;&amp;#125;);&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  response.end(&lt;span class=&quot;string&quot;&gt;&quot;Hello World\n&quot;&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;#125;).listen(&lt;span class=&quot;number&quot;&gt;8000&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h3 id=&quot;Inline_code&quot;&gt;&lt;a href=&quot;#Inline_code&quot; class=&quot;headerlink&quot; title=&quot;Inline code&quot;&gt;&lt;/a&gt;Inline code&lt;/h3&gt;&lt;p&gt;Test &lt;code&gt;inline&lt;/code&gt; code.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;close&lt;/code&gt; &lt;code&gt;together&lt;/code&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Image&quot;&gt;&lt;a href=&quot;#Image&quot; class=&quot;headerlink&quot; title=&quot;Image&quot;&gt;&lt;/a&gt;Image&lt;/h3&gt;&lt;p&gt;some text above a image.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://7fva40.com1.z0.glb.clouddn.com/carlog-404-sprite.jpg&quot; alt=&quot;sprite&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Some_keyboard&quot;&gt;&lt;a href=&quot;#Some_keyboard&quot; class=&quot;headerlink&quot; title=&quot;Some keyboard&quot;&gt;&lt;/a&gt;Some keyboard&lt;/h3&gt;&lt;p&gt;To open the palette in Sublime Text, on Windows and Linux press &lt;kbd&gt;CTRL&lt;/kbd&gt; + &lt;kbd&gt;SHIFT&lt;/kbd&gt; + &lt;kbd&gt;p&lt;/kbd&gt;, on OS X press &lt;kbd&gt;CMD&lt;/kbd&gt; + &lt;kbd&gt;SHFIT&lt;/kbd&gt; + &lt;kbd&gt;p&lt;/kbd&gt;.&lt;/p&gt;
+&lt;h3 id=&quot;u4E2D_u6587&quot;&gt;&lt;a href=&quot;#u4E2D_u6587&quot; class=&quot;headerlink&quot; title=&quot;中文&quot;&gt;&lt;/a&gt;中文&lt;/h3&gt;&lt;p&gt;我能吞下玻璃而不伤害身体。&lt;/p&gt;
+&lt;h3 id=&quot;This_is_simply_a_long_heading_to_test_table_of_content_on_the_left&quot;&gt;&lt;a href=&quot;#This_is_simply_a_long_heading_to_test_table_of_content_on_the_left&quot; class=&quot;headerlink&quot; title=&quot;This is simply a long heading to test table of content on the left&quot;&gt;&lt;/a&gt;This is simply a long heading to test table of content on the left&lt;/h3&gt;&lt;p&gt;nothing here&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;List&quot;&gt;&lt;a href=&quot;#List&quot; class=&quot;headerlink&quot; title=&quot;List&quot;&gt;&lt;/a&gt;List&lt;/h2&gt;&lt;h3 id=&quot;Unordered_List&quot;&gt;&lt;a href=&quot;#Unordered_List&quot; class=&quot;headerli
+    
+    </summary>
+    
+    
+      <category term="style" scheme="http://zxcvb.hanhaishan.com/tags/style/"/>
+    
+      <category term="test" scheme="http://zxcvb.hanhaishan.com/tags/test/"/>
+    
+      <category term="样式" scheme="http://zxcvb.hanhaishan.com/tags/%E6%A0%B7%E5%BC%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://zxcvb.hanhaishan.com/hello-world/"/>
+    <id>http://zxcvb.hanhaishan.com/hello-world/</id>
+    <published>2016-03-07T12:46:25.000Z</published>
+    <updated>2016-03-07T12:46:25.000Z</updated>
+    
+    <content type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;Quick_Start&quot;&gt;&lt;a href=&quot;#Quick_Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create_a_new_post&quot;&gt;&lt;a href=&quot;#Create_a_new_post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo new &lt;span class=&quot;string&quot;&gt;&quot;My New Post&quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/writing.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Writing&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Run_server&quot;&gt;&lt;a href=&quot;#Run_server&quot; class=&quot;headerlink&quot; title=&quot;Run server&quot;&gt;&lt;/a&gt;Run server&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo server&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/server.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Server&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Generate_static_files&quot;&gt;&lt;a href=&quot;#Generate_static_files&quot; class=&quot;headerlink&quot; title=&quot;Generate static files&quot;&gt;&lt;/a&gt;Generate static files&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo generate&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/generating.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Generating&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Deploy_to_remote_sites&quot;&gt;&lt;a href=&quot;#Deploy_to_remote_sites&quot; class=&quot;headerlink&quot; title=&quot;Deploy to remote sites&quot;&gt;&lt;/a&gt;Deploy to remote sites&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo deploy&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/deployment.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Deployment&lt;/a&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Responsive Design</title>
+    <link href="http://zxcvb.hanhaishan.com/responsive/"/>
+    <id>http://zxcvb.hanhaishan.com/responsive/</id>
+    <published>2016-03-06T16:00:00.000Z</published>
+    <updated>2016-03-06T16:00:00.000Z</updated>
+    
+    <content type="html">&lt;p&gt;This theme was built with responsive design in mind.&lt;/p&gt;
+&lt;h2 id=&quot;u6D4B_u8BD5_u6807_u9898&quot;&gt;&lt;a href=&quot;#u6D4B_u8BD5_u6807_u9898&quot; class=&quot;headerlink&quot; title=&quot;测试标题&quot;&gt;&lt;/a&gt;测试标题&lt;/h2&gt;&lt;p&gt;如果你现在正在使用大屏幕浏览，你应该能看到左边”In this page”为标题的TOC模块，同时整个网站header中的导航菜单也是一字排开。&lt;/p&gt;
+&lt;p&gt;如果你缩小屏幕宽度，左边的TOC模块会自动消失。继续缩小屏幕宽度，header中的导航菜单也会变成dropdown式的菜单，由右上角的「汉堡包」按钮触发。&lt;/p&gt;
+&lt;h3 id=&quot;Lorem&quot;&gt;&lt;a href=&quot;#Lorem&quot; class=&quot;headerlink&quot; title=&quot;Lorem&quot;&gt;&lt;/a&gt;Lorem&lt;/h3&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis laudantium error nostrum, exercitationem voluptatibus molestiae accusantium distinctio qui, voluptate tempore ex, illo cum, eligendi harum nemo ullam incidunt quisquam hic.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto aperiam minus ipsa accusantium fugiat iure qui, corporis placeat repudiandae obcaecati perferendis, dolor ab, omnis adipisci quia officia officiis, sunt amet.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam non est ipsum quaerat animi, labore mollitia nam quibusdam sint magnam eos, voluptates maxime sit atque consequuntur cupiditate possimus pariatur dolor?&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;This theme was built with responsive design in mind.&lt;/p&gt;
+&lt;h2 id=&quot;u6D4B_u8BD5_u6807_u9898&quot;&gt;&lt;a href=&quot;#u6D4B_u8BD5_u6807_u9898&quot; class=&quot;heade
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Admonition Style Test</title>
+    <link href="http://zxcvb.hanhaishan.com/admonition-test/"/>
+    <id>http://zxcvb.hanhaishan.com/admonition-test/</id>
+    <published>2016-03-01T16:00:00.000Z</published>
+    <updated>2016-03-01T16:00:00.000Z</updated>
+    
+    <content type="html">&lt;h2 id=&quot;Admonition&quot;&gt;&lt;a href=&quot;#Admonition&quot; class=&quot;headerlink&quot; title=&quot;Admonition&quot;&gt;&lt;/a&gt;Admonition&lt;/h2&gt;&lt;p&gt;Python markdown实现中扩展了markdown的语法，让其支持了&lt;a href=&quot;https://pythonhosted.org/Markdown/extensions/admonition.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;admonition&lt;/a&gt;。标准markdown语法是不支持的，但我们可以直接在markdown中写html来&lt;em&gt;粗暴的&lt;/em&gt;实现admonition。&lt;/p&gt;
+&lt;h3 id=&quot;note_/_info_/tips&quot;&gt;&lt;a href=&quot;#note_/_info_/tips&quot; class=&quot;headerlink&quot; title=&quot;note / info /tips&quot;&gt;&lt;/a&gt;note / info /tips&lt;/h3&gt;&lt;div class=&quot;admonition note&quot;&gt;&lt;p class=&quot;admonition-title&quot;&gt;Note&lt;/p&gt;&lt;p&gt;Admonition is not supported in markdown natively.&lt;/p&gt;So we need to write some htmls manually.&lt;p&gt;&lt;/p&gt;&lt;/div&gt;
+
+
+&lt;h3 id=&quot;warning_/_important&quot;&gt;&lt;a href=&quot;#warning_/_important&quot; class=&quot;headerlink&quot; title=&quot;warning / important&quot;&gt;&lt;/a&gt;warning / important&lt;/h3&gt;&lt;div class=&quot;admonition warning&quot;&gt;&lt;p class=&quot;admonition-title&quot;&gt;Warning&lt;/p&gt;&lt;p&gt;Don’t walk on the street alone, after 12:00 pm.&lt;/p&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;danger_/_critical&quot;&gt;&lt;a href=&quot;#danger_/_critical&quot; class=&quot;headerlink&quot; title=&quot;danger / critical&quot;&gt;&lt;/a&gt;danger / critical&lt;/h3&gt;&lt;div class=&quot;admonition danger&quot;&gt;&lt;p class=&quot;admonition-title&quot;&gt;Danger&lt;/p&gt;&lt;p&gt;Boooooom!!!&lt;/p&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;u4E2D_u6587&quot;&gt;&lt;a href=&quot;#u4E2D_u6587&quot; class=&quot;headerlink&quot; title=&quot;中文&quot;&gt;&lt;/a&gt;中文&lt;/h3&gt;&lt;div class=&quot;admonition note&quot;&gt;&lt;p class=&quot;admonition-title&quot;&gt;Note&lt;/p&gt;&lt;p&gt;原生markdown并不支持admonition。&lt;/p&gt;&lt;p&gt;所以我们必须要自己手写一些html。&lt;/p&gt;&lt;/div&gt;
+
+</content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;Admonition&quot;&gt;&lt;a href=&quot;#Admonition&quot; class=&quot;headerlink&quot; title=&quot;Admonition&quot;&gt;&lt;/a&gt;Admonition&lt;/h2&gt;&lt;p&gt;Python markdown实现中扩展了markdown的语法，让其支持了
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Elements</title>
+    <link href="http://zxcvb.hanhaishan.com/elements/"/>
+    <id>http://zxcvb.hanhaishan.com/elements/</id>
+    <published>2013-12-24T15:29:08.000Z</published>
+    <updated>2016-03-07T12:46:25.000Z</updated>
+    
+    <content type="html">&lt;p&gt;The purpose of this post is to help you make sure all of HTML elements can display properly. If you use CSS reset, don’t forget to redefine the style by yourself.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&quot;Heading_1&quot;&gt;&lt;a href=&quot;#Heading_1&quot; class=&quot;headerlink&quot; title=&quot;Heading 1&quot;&gt;&lt;/a&gt;Heading 1&lt;/h1&gt;&lt;h2 id=&quot;Heading_2&quot;&gt;&lt;a href=&quot;#Heading_2&quot; class=&quot;headerlink&quot; title=&quot;Heading 2&quot;&gt;&lt;/a&gt;Heading 2&lt;/h2&gt;&lt;h3 id=&quot;Heading_3&quot;&gt;&lt;a href=&quot;#Heading_3&quot; class=&quot;headerlink&quot; title=&quot;Heading 3&quot;&gt;&lt;/a&gt;Heading 3&lt;/h3&gt;&lt;h4 id=&quot;Heading_4&quot;&gt;&lt;a href=&quot;#Heading_4&quot; class=&quot;headerlink&quot; title=&quot;Heading 4&quot;&gt;&lt;/a&gt;Heading 4&lt;/h4&gt;&lt;h5 id=&quot;Heading_5&quot;&gt;&lt;a href=&quot;#Heading_5&quot; class=&quot;headerlink&quot; title=&quot;Heading 5&quot;&gt;&lt;/a&gt;Heading 5&lt;/h5&gt;&lt;h6 id=&quot;Heading_6&quot;&gt;&lt;a href=&quot;#Heading_6&quot; class=&quot;headerlink&quot; title=&quot;Heading 6&quot;&gt;&lt;/a&gt;Heading 6&lt;/h6&gt;&lt;hr&gt;
+&lt;h2 id=&quot;Paragraph&quot;&gt;&lt;a href=&quot;#Paragraph&quot; class=&quot;headerlink&quot; title=&quot;Paragraph&quot;&gt;&lt;/a&gt;Paragraph&lt;/h2&gt;&lt;p&gt;Lorem ipsum dolor sit amet, &lt;a href=&quot;/&quot;&gt;test link&lt;/a&gt; consectetur adipiscing elit. &lt;strong&gt;Strong text&lt;/strong&gt; pellentesque ligula commodo viverra vehicula. &lt;em&gt;Italic text&lt;/em&gt; at ullamcorper enim. Morbi a euismod nibh. &lt;u&gt;Underline text&lt;/u&gt; non elit nisl. &lt;del&gt;Deleted text&lt;/del&gt; tristique, sem id condimentum tempus, metus lectus venenatis mauris, sit amet semper lorem felis a eros. Fusce egestas nibh at sagittis auctor. Sed ultricies ac arcu quis molestie. Donec dapibus nunc in nibh egestas, vitae volutpat sem iaculis. Curabitur sem tellus, elementum nec quam id, fermentum laoreet mi. Ut mollis ullamcorper turpis, vitae facilisis velit ultricies sit amet. Etiam laoreet dui odio, id tempus justo tincidunt id. Phasellus scelerisque nunc sed nunc ultricies accumsan.&lt;/p&gt;
+&lt;p&gt;Interdum et malesuada fames ac ante ipsum primis in faucibus. &lt;code&gt;Sed erat diam&lt;/code&gt;, blandit eget felis aliquam, rhoncus varius urna. Donec tellus sapien, sodales eget ante vitae, feugiat ullamcorper urna. Praesent auctor dui vitae dapibus eleifend. Proin viverra mollis neque, ut ullamcorper elit posuere eget.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Praesent diam elit, interdum ut pulvinar placerat, imperdiet at magna.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Maecenas ornare arcu at mi suscipit, non molestie tortor ultrices. Aenean convallis, diam et congue ultricies, erat magna tincidunt orci, pulvinar posuere mi sapien ac magna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Praesent vitae placerat mauris. Nullam laoreet ante posuere tortor blandit auctor. Sed id ligula volutpat leo consequat placerat. Mauris fermentum dolor sed augue malesuada sollicitudin. Vivamus ultrices nunc felis, quis viverra orci eleifend ut. Donec et quam id urna cursus posuere. Donec elementum scelerisque laoreet.&lt;/p&gt;
+&lt;h2 id=&quot;List_Types&quot;&gt;&lt;a href=&quot;#List_Types&quot; class=&quot;headerlink&quot; title=&quot;List Types&quot;&gt;&lt;/a&gt;List Types&lt;/h2&gt;&lt;h3 id=&quot;Definition_List__28dl_29&quot;&gt;&lt;a href=&quot;#Definition_List__28dl_29&quot; class=&quot;headerlink&quot; title=&quot;Definition List (dl)&quot;&gt;&lt;/a&gt;Definition List (dl)&lt;/h3&gt;&lt;dl&gt;&lt;dt&gt;Definition List Title&lt;/dt&gt;&lt;dd&gt;This is a definition list division.&lt;/dd&gt;&lt;/dl&gt;
+
+&lt;h3 id=&quot;Ordered_List__28ol_29&quot;&gt;&lt;a href=&quot;#Ordered_List__28ol_29&quot; class=&quot;headerlink&quot; title=&quot;Ordered List (ol)&quot;&gt;&lt;/a&gt;Ordered List (ol)&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;List Item 1&lt;/li&gt;
+&lt;li&gt;List Item 2&lt;/li&gt;
+&lt;li&gt;List Item 3&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&quot;Unordered_List__28ul_29&quot;&gt;&lt;a href=&quot;#Unordered_List__28ul_29&quot; class=&quot;headerlink&quot; title=&quot;Unordered List (ul)&quot;&gt;&lt;/a&gt;Unordered List (ul)&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;List Item 1&lt;/li&gt;
+&lt;li&gt;List Item 2&lt;/li&gt;
+&lt;li&gt;List Item 3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;Table&quot;&gt;&lt;a href=&quot;#Table&quot; class=&quot;headerlink&quot; title=&quot;Table&quot;&gt;&lt;/a&gt;Table&lt;/h2&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Table Header 1&lt;/th&gt;
+&lt;th&gt;Table Header 2&lt;/th&gt;
+&lt;th&gt;Table Header 3&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Division 1&lt;/td&gt;
+&lt;td&gt;Division 2&lt;/td&gt;
+&lt;td&gt;Division 3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Division 1&lt;/td&gt;
+&lt;td&gt;Division 2&lt;/td&gt;
+&lt;td&gt;Division 3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Division 1&lt;/td&gt;
+&lt;td&gt;Division 2&lt;/td&gt;
+&lt;td&gt;Division 3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&quot;Misc_Stuff_-_abbr_2C_acronym_2C_sub_2C_sup_2C_etc&quot;&gt;&lt;a href=&quot;#Misc_Stuff_-_abbr_2C_acronym_2C_sub_2C_sup_2C_etc&quot; class=&quot;headerlink&quot; title=&quot;Misc Stuff - abbr, acronym, sub, sup, etc.&quot;&gt;&lt;/a&gt;Misc Stuff - abbr, acronym, sub, sup, etc.&lt;/h2&gt;&lt;p&gt;Lorem &lt;sup&gt;superscript&lt;/sup&gt; dolor &lt;sub&gt;subscript&lt;/sub&gt; amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. &lt;cite&gt;cite&lt;/cite&gt;. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. &lt;acronym title=&quot;National Basketball Association&quot;&gt;NBA&lt;/acronym&gt; Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.  &lt;abbr title=&quot;Avenue&quot;&gt;AVE&lt;/abbr&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;The purpose of this post is to help you make sure all of HTML elements can display properly. If you use CSS reset, don’t forget to redefi
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
