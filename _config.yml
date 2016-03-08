@@ -73,7 +73,6 @@ deploy:
   branch: gh-pages
 
 menu:
-  Home: /
   Archives: /archives
   RSS: /atom.xml
   GitHub: https://github.com/haishanh/hexo-theme-zxcvb

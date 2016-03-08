@@ -23,17 +23,17 @@ tags:
  2. two
  3. three
 
-### Links
+## Links
 
 This page is generated using [mdnotes][mdnotes].
 
-### Quote
+## Quote
 
 > Here’s to the crazy ones. The rebels. The troublemakers. The ones who see things differently. While some may see them as the crazy ones, we see genius. Because the people who are crazy enough to think they can change the world, are the ones who do.  
 
-### Code 
+## Code 
 
-Some python code
+### Python
 
 ```python
 def hello():
@@ -43,7 +43,7 @@ if __name__ == '__main__':
     hello()
 ```
 
-Some javascript code
+### Javascript
 
 ```js
 var http = require('http');
@@ -60,23 +60,25 @@ Test `inline` code.
 
 `close` `together`
 
-### Image
+## Image
 
 some text above a image.
 
 ![sprite](http://7fva40.com1.z0.glb.clouddn.com/carlog-404-sprite.jpg)
 
-### Some keyboard
+## Some keyboard key press
 
 To open the palette in Sublime Text, on Windows and Linux press <kbd>CTRL</kbd> + <kbd>SHIFT</kbd> + <kbd>p</kbd>, on OS X press <kbd>CMD</kbd> + <kbd>SHFIT</kbd> + <kbd>p</kbd>.
 
-### 中文
+## 中文
 
 我能吞下玻璃而不伤害身体。
 
-### This is simply a long heading to test table of content on the left
+## This is simply a long heading to test table of content on the left
 
 nothing here
+
+### another heading
 
 
 [twitter]: https://twitter.com
