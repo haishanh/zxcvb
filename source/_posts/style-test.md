@@ -9,6 +9,10 @@ tags:
  - style
  - test
 ---
+## Links
+
+This site is powered by [hexo][hexo] and [GitHub][gh].
+
 ## List
 
 ### Unordered List
@@ -23,15 +27,11 @@ tags:
  2. two
  3. three
 
-## Links
-
-This page is generated using [mdnotes][mdnotes].
-
 ## Quote
 
-> Here’s to the crazy ones. The rebels. The troublemakers. The ones who see things differently. While some may see them as the crazy ones, we see genius. Because the people who are crazy enough to think they can change the world, are the ones who do.  
+> Here’s to the crazy ones. The rebels. The troublemakers. The ones who see things differently. While some may see them as the crazy ones, we see genius. Because the people who are crazy enough to think they can change the world, are the ones who do.
 
-## Code 
+## Code
 
 ### Python
 
@@ -84,4 +84,5 @@ nothing here
 [twitter]: https://twitter.com
 [apple]: http://apple.com
 [google]: http://google.com
-[mdnotes]: http://github.com
+[hexo]: https://hexo.io/
+[gh]: https://github.com
