@@ -16,13 +16,10 @@ title: Test post
 date: 2016-02-23
 updated: 2016-02-29
 hero:
-  image: http://7fva40.com1.z0.glb.clouddn.com/carlog-404-sprite.jpg
-  size: cover
-  position: center
-  height: 450px
+  image: http://7fva40.com1.z0.glb.clouddn.com/octocat.jpg
+  height: 500px
 ---
 ```
-
 
 This will add inline style to the `<header>` element, rule mapping as below:
 
@@ -33,4 +30,12 @@ This will add inline style to the `<header>` element, rule mapping as below:
  * height   -> height              (default to "450px")
 ```
 
-Please note, this config can also be applied in your site `_config.yml` to have a site level hero.
+What you see, in the banner of this post, is my drawing of *Octocat* using app *53 paper* :)
+
+{% admonition note %}
+
+This config can also be applied in your site configuration file `_config.yml` to have a site level hero.
+
+Hero config in your post front matter will overwrite what you added in your `_config.yml`.
+
+{% endadmonition %}
