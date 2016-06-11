@@ -32,17 +32,17 @@
   // <header> nav -> responsive
 
   var burger = $('.hamburger');
+  var headerNav = $('.nav');
   burger.addEventListener('click', function (ev) {
     burger.classList.toggle('toggle');
-    var nav = $('nav');
-    nav.classList.toggle('toggle');
+    headerNav.classList.toggle('toggle');
   });
 
   // STICK TOC
 
   var toc = $('.toc');
   var tocAnchor = $('.post-content');
-  if (toc) {
+  if (toc && toc.clientHeight < window.innerHeight) {
     stickToc();
     updateChain.push(stickToc);
   }
