@@ -84,3 +84,15 @@ logo:
 footer: <span>&copy;</span> 2016 <a href="http://hanhaishan.com">Haishan</a><br>
         Documentation licensed under <a href="http://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>,
         hosted by <a href="https://github.com/haishanh/zxcvb/tree/gh-pages">Github Pages</a>
+
+hero:
+  - image: http://7fva40.com1.z0.glb.clouddn.com/wheatfield-under-thunderclouds.jpg
+    height: 150px
+authors:
+  haishanh:
+    name: Haishan
+    link: http://hanhaishan.com
+    avatar: https://avatars0.githubusercontent.com/u/1166872?v=3
+  octocat:
+    name: The Octocat
+    avatar: https://avatars0.githubusercontent.com/u/583231?v=3

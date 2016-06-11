@@ -5,7 +5,11 @@ updated: 2016-03-07
 ---
 This theme was built with responsive design in mind.
 
-## 测试标题
+## Responsive
+
+Shrink or enlarge the browser window to see how the *TOC block on the left* and *navigation menu on the top* behave.
+
+## 响应式
 
 如果你现在正在使用大屏幕浏览，你应该能看到左边"In this page"为标题的TOC模块，同时整个网站header中的导航菜单也是一字排开。
 
